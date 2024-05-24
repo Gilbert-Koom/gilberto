@@ -18,6 +18,65 @@ $eggShell: hsl(30, 54%, 90%);
 $lightGrey: hsl(30, 18%, 87%);
 $wengeBrown: hsl(30, 10%, 34%);
 $darkCharcoal: hsl(24, 5%, 18%);
+
 body{
     background-color: $eggShell;
+    font-family: $normalFont;
+}
+
+.masterContainer{
+    width: 738.72px;
+    margin: auto;
+    background-color: $white;
+    border-radius: 30px;
+    margin: auto;
+    
+
+}
+img{
+    width: 644.274px;
+    margin-left: 50px;
+    border-radius: 30px;
+    margin-top: 50px;
+}
+.title,.title2,.title3,.title4{
+    font-family: $styledFont;
+}
+.changeWeight1{font-weight: $boldFont;}
+.weight600{
+    font-family: $semiBoldFont;
+}
+.container2{
+    margin-left: 50px;
+
+}
+.container3{
+    margin-left: 50px;
+    background-color: $roseWhite;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 644.274px;
+    border-radius: 10px;
+}
+.container4{
+    margin-left: 50px;
+}
+.container5{
+    margin-left: 50px;
+}
+.container6{
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+.title{
+    color: $darkCharcoal;
+}
+.time{
+    color: $darkRasberry;
+}
+.title2,.title3,.title4{
+    color: $nutMeg;
+}
+.nutMeg1,.nutMeg2,.nutMeg3,.nutMeg4{
+    color: $nutMeg;
 }

@@ -1,3 +1,73 @@
 body {
   background-color: hsl(30, 54%, 90%);
+  font-family: "Outfit";
+}
+
+.masterContainer {
+  width: 738.72px;
+  margin: auto;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 30px;
+  margin: auto;
+}
+
+img {
+  width: 644.274px;
+  margin-left: 50px;
+  border-radius: 30px;
+  margin-top: 50px;
+}
+
+.title, .title2, .title3, .title4 {
+  font-family: "Young Serif";
+}
+
+.changeWeight1 {
+  font-weight: 700;
+}
+
+.weight600 {
+  font-family: 600;
+}
+
+.container2 {
+  margin-left: 50px;
+}
+
+.container3 {
+  margin-left: 50px;
+  background-color: hsl(330, 100%, 98%);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 644.274px;
+  border-radius: 10px;
+}
+
+.container4 {
+  margin-left: 50px;
+}
+
+.container5 {
+  margin-left: 50px;
+}
+
+.container6 {
+  margin-left: 50px;
+  margin-bottom: 50px;
+}
+
+.title {
+  color: hsl(24, 5%, 18%);
+}
+
+.time {
+  color: hsl(332, 51%, 32%);
+}
+
+.title2, .title3, .title4 {
+  color: hsl(14, 45%, 36%);
+}
+
+.nutMeg1, .nutMeg2, .nutMeg3, .nutMeg4 {
+  color: hsl(14, 45%, 36%);
 }/*# sourceMappingURL=style.css.map */
