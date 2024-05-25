@@ -21,8 +21,8 @@ $darkCharcoal: hsl(24, 5%, 18%);
 
 body{
     background-color: $eggShell;
-    font-family: $normalFont;
-    
+    font-family: $normalFont; 
+     
 }
 
 .masterContainer{
@@ -30,15 +30,14 @@ body{
     margin: auto;
     background-color: $white;
     border-radius: 30px;
-    margin: auto;
-    
-
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
 img{
     width: 644.274px;
     margin-left: 50px;
     border-radius: 30px;
-    margin-top: 50px;
+    margin-top: 20px;
 }
 .title,.title2,.title3,.title4{
     font-family: $styledFont;
