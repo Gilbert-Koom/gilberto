@@ -17,10 +17,6 @@ Recipe page
 
 ![Project screenshot](https://imgur.com/a/BnKZCd7)
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
