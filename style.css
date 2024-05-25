@@ -70,4 +70,16 @@ img {
 
 .nutMeg1, .nutMeg2, .nutMeg3, .nutMeg4 {
   color: hsl(14, 45%, 36%);
+}
+
+#style1, #style2, #style3, #style4, #style5, #style6, #style7, #style8 {
+  color: hsl(30, 10%, 34%);
+}
+
+.coloredList > li, .coloredList2 > li {
+  color: hsl(14, 45%, 36%);
+}
+
+.changeColor > li {
+  color: hsl(332, 51%, 32%);
 }/*# sourceMappingURL=style.css.map */
